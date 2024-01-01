@@ -1,4 +1,4 @@
-# JavaScript ChatGPT 
+# JavaScript ChatGPT
 
 This project is a simple clone of OpenAI's ChatGPT, implemented in JavaScript. It uses the OpenAI API to generate responses to user input.
 
